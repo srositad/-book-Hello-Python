@@ -1,6 +1,7 @@
 # Python untuk Pemula
 ---
-##Halo, assalamualaikum wr.wb.
+"HELLO WORLD".
+
 Bagi yang (sedang) mulai belajar Python atau sedang mulai belajar bahasa pemrograman yang *mudah dipahami* dan *bersahabat* semoga repository ini bisa membantu. :)
 Repository ini merupakan pengetahuan dasar terkait bahasa pemrograman Python yang cocok bagi (kalian) yang pemula.
 
